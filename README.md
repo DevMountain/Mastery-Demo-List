@@ -6,7 +6,7 @@ Your goal on this project is to show what you can do.  There are no instructions
 
 ### Grading
 
-In order to pass something off you will need to send information to your mentor and have them review it. The information they need is the name of the competency, the file(s) involved, and the line number(s) where the code is they can find it quickly.  The mentor reviewing your code will either pass you off on this competency or they will tell you what you need to improve to pass off the competency.
+In order to pass something off you will need to send information to your mentor and have them review it. The information they need is the name of the competency, the file(s) involved, and the line number(s) where the code is, so they can find it quickly.  The mentor reviewing your code will either pass you off on this competency or they will tell you what you need to improve to pass off the competency.
 
 ## The List
 
